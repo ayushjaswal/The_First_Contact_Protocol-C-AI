@@ -84,12 +84,6 @@ if is_uncertain:
 
 This project is part of a fictional scenario where the Starship Dialectic has encountered an alien civilization (the Keplerians) on Kepler-186f. The AI assistant AURA must be tested for hallucination and bias before being authorized for first contact communications.
 
-## Requirements
-
-- Python 3.7+
-- OpenAI API key (optional, for automated response generation)
-- See `requirements.txt` for full dependency list
-
 ## Environment Variables
 
 Optionally set your OpenAI API key as an environment variable:
@@ -97,7 +91,3 @@ Optionally set your OpenAI API key as an environment variable:
 ```bash
 export OPENAI_API_KEY="your-api-key-here"
 ```
-
-## License
-
-Educational project for BTU Masters - Conversational AI Course
